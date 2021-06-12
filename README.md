@@ -1,4 +1,4 @@
-# Project 1 REK
+# Project 2 REK
 
 ### Project description
 
@@ -7,7 +7,7 @@ The project is about data preparation and using this data in recommender systems
 The project constists of two Jupyter notebooks:
 
     project_1_data_preparation.ipynb,
-    project_1_recommender_and_evaluation.ipynb,
+    project_2_recommender_and_evaluation.ipynb,
 
 data preprocessing code:
 
