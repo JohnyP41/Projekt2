@@ -2,7 +2,7 @@
 
 ### Project description
 
-The project is about data preparation and using this data in recommender systems.
+The project is about data preparation and using this data in recommender systems based on neural network.
 
 The project constists of two Jupyter notebooks:
 
@@ -47,3 +47,10 @@ and data:
 9.  Install hyperopt.
 
         pip install hyperopt   
+10.  Install livelossplot.
+
+            pip install livelossplot 
+    
+11. Install torch.
+
+        pip install torch 
