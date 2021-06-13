@@ -8,6 +8,8 @@ The project constists of two Jupyter notebooks:
 
     project_1_data_preparation.ipynb,
     project_2_recommender_and_evaluation.ipynb,
+    project_1_data_preparation.html,
+    project_2_recommender_and_evaluation.html,
 
 data preprocessing code:
 
